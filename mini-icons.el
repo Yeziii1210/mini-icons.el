@@ -3,7 +3,7 @@
 ;; Copyright (C) 2026 Yeziii1210
 
 ;; Author: Yeziii1210
-;; URL: https://github.com/Yeziii1210/mini
+;; URL: https://github.com/Yeziii1210/mini-icons.el
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "29.1"))
 ;; Keywords: convenience, files, faces
@@ -48,7 +48,7 @@
   "Icon provider ported from mini.icons."
   :group 'convenience
   :prefix "mini-icons-"
-  :link '(url-link "https://github.com/Yeziii1210/mini"))
+  :link '(url-link "https://github.com/Yeziii1210/mini-icons.el"))
 
 (defgroup mini-icons-faces nil
   "Faces used by mini-icons."

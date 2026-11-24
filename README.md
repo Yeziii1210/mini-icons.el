@@ -27,14 +27,11 @@ With `use-package` on Emacs 30 or later:
 
 ```elisp
 (use-package mini-icons
-  :vc (:url "https://github.com/Yeziii1210/mini" :rev :newest))
+  :vc (:url "https://github.com/Yeziii1210/mini-icons.el" :rev :newest))
 ```
 
-On Emacs 29:
-
-```elisp
-(package-vc-install '(mini-icons :url "https://github.com/Yeziii1210/mini"))
-```
+On Emacs 29, run `M-x package-vc-install` and enter
+`https://github.com/Yeziii1210/mini-icons.el`.
 
 ### Font
 
